@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Brandon Wilson",
+        "gender":"male",
+        "job" :"Senior-UX-developer",
+        "connect":"23"
+    },
+    {
+        "id":2,
+        "name":"Therasa Steward",
+        "gender":"female",
+        "job" :"IOS-Developer",
+        "connect":"235"
+    },
+    {
+        "id":3,
+        "name":"Anna",
+        "gender":"female",
+        "job" :"PHP-Developer",
+        "connect":"895"
+    },
+    {
+        "id":4,
+        "name":"Marie",
+        "gender":"female",
+        "job" :"Java-Developer",
+        "connect":"25"
+    },
+    {
+        "id":5,
+        "name":"Alex",
+        "gender":"male",
+        "job" :"Android-Developer",
+        "connect":"359"
+    },
+    {
+        "id":6,
+        "name":"Katie",
+        "gender":"female",
+        "job" :"Frontend-Developer",
+        "connect":"35"
+    },
+    {
+        "id":7,
+        "name":"Camila",
+        "gender":"female",
+        "job" :"Content-Writer",
+        "connect":"500"
+    },
+    {
+        "id":8,
+        "name":"Shawn",
+        "gender":"male",
+        "job" :"Digital-Marketer",
+        "connect":"300"
+    },
+    {
+        "id":9,
+        "name":"Chris",
+        "gender":"male",
+        "job" :"Backend-developer",
+        "connect":"76"
+    },
+    {
+        "id":10,
+        "name":"Zendya",
+        "gender":"female",
+        "job" :"Web-Developer",
+        "connect":"90"
+    }
+  
+]
